@@ -1,0 +1,116 @@
+body{
+    
+    font-family: sans-serif;
+}
+.alignment{
+    display: inline;
+}
+
+#login {
+    margin: 10px;
+    float: right;
+    line-height: 70px;
+    white-space: nowrap;
+}
+#placeholder{
+    float: right;
+    margin: 10px;
+    line-height: 70px;
+    white-space: nowrap;
+}
+#sign-up{
+    float: right;
+    margin: 10px;
+    line-height: 70px;
+    white-space: nowrap;
+}
+#app{
+    float: right;
+    margin: 10px;
+    margin-top:32px;
+    border-radius: 7px;
+    white-space: nowrap;
+    padding: 3px 3px;
+    color: white;
+    border: 1px solid cornflowerblue;
+    background-color: cornflowerblue;
+}
+#instagram {
+    float: left;
+    
+}
+#top-bar{
+    display: inline-block;
+    width: 100%;
+}
+ .colortext{
+         color:cornflowerblue;
+     }
+
+#search{
+    color: black;
+    font-size: 12px ;
+    border-style: groove;
+    border: 1px solid lightgray;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 7%;
+    margin-left: 200px;
+    line-height: 70px;
+    white-space: nowrap;
+}  
+#profile-picture{
+    float: left;
+    display: inline;
+    clear: left;
+    margin-right: 100px;
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+
+} 
+#follow {
+    border-style: solid;
+    border-width: thin;
+    margin-left: 6px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    width: 6%;
+    display: inline;
+     border-radius: 7px;
+}
+
+#username {
+    font-size: 36px;
+    font-style: normal;
+    text-align: center;
+    display: inline;
+}
+#info{
+    float: left;
+    display: inline;
+    margin-left: 25px;
+}
+.bio {
+    text-align: left;
+    margin: 0px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+table, th, tr, td {
+    border: 5px white;
+    margin: 10px;
+    padding: 7px;
+}
